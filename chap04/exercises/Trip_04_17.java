@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.print.attribute.standard.Chromaticity;
-
 class Trip {
 
     // Instance variables
